@@ -1,0 +1,8 @@
+// loaders
+export const ENABLE_LOADER = 'ENABLE_LOADER';
+export const DISABLE_LOADER = 'DISABLE_LOADER';
+
+// games
+export const LIST_GAMES_REQUEST = 'LIST_GAMES_REQUEST';
+export const LIST_GAMES_RESPONSE = 'LIST_GAMES_RESPONSE';
+export const LIST_GAMES_FAILED = 'LIST_GAMES_FAILED';

@@ -1,0 +1,6 @@
+module Pods_gamesDB {
+  umbrella header "Pods-gamesDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
