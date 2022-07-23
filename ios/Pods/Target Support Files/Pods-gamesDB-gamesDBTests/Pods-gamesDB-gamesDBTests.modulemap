@@ -1,0 +1,6 @@
+module Pods_gamesDB_gamesDBTests {
+  umbrella header "Pods-gamesDB-gamesDBTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
